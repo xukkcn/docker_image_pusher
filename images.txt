@@ -12,4 +12,4 @@ xhofe/alist:latest
 mysql
 
 #Uyuni
-uyuni-server
+#uyuni-server
